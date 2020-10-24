@@ -2,7 +2,8 @@
 #'
 #' This data based on iris to be used as example.
 #'
-#'@describe{
+#'@format a dataframe with 150 observations
+#'\describe{
 #'\item{Sepal.Lenghth}{sepal length, in cm}
 #'\item{Sepal.Width}{sepal width, in cm}
 #'\item{Petal.Length}{petal lenghth, cm}
